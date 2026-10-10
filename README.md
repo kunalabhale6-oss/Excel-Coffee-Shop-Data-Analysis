@@ -18,7 +18,7 @@ This repository contains an Excel file for analyzing sales data of a coffee shop
 4. **Charts**: Charts and graphs are dynamically linked to the data. Simply update the data, and the charts will update automatically.
 
 
-![Dashboard Screenshot](Images/Final_Dashboard.png )
+![Dashboard Screenshot](images/Final_Dashboard.png )
 
 **Requirements** : 
 
